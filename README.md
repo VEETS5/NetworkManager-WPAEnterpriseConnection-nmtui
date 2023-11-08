@@ -37,3 +37,8 @@ Domain: Enter the domain provided by your WiFi provider (e.g., secure.wireless.w
 ### Important: Check the option No CA certificate is required (if applicable for your network). Without this, the connection may not work.
 Enter your Username and Password.
 After completing these steps, your setup should be complete, and you should be able to connect to the WPA2 Enterprise WiFi network.
+
+## For reference here is my schools page on how to connect to the wifi
+
+
+![Screenshot 2023-11-08 153631](https://github.com/VEETS5/nmtui-WPA2EnterpriseConnectionTutorial/assets/20433885/49282c39-e33e-4cb5-9647-033fee90c8f7)

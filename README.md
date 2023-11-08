@@ -36,7 +36,7 @@ Authentication: Choose PEAP.
 Domain: Enter the domain provided by your WiFi provider (e.g., secure.wireless.wmich.edu).
 ### Important: Check the option No CA certificate is required (if applicable for your network). Without this, the connection may not work.
 Enter your Username and Password.
-After completing these steps, your setup should be complete, and you should be able to connect to the WPA2 Enterprise WiFi network.
+After completing these steps, click the save button and then your setup should be complete, and you should be able to connect to the WPA2 Enterprise WiFi network.
 
 ## For reference here is my schools page on how to connect to the wifi
 
